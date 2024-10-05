@@ -1,0 +1,6 @@
+{
+    "require": {
+        "instamojo/instamojo-php": "^1.0",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}

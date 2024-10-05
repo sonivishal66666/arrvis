@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "^2.15.0",
+        "instamojo/instamojo-php": "^1.0"
+    }
+}
